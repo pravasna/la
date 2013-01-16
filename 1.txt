@@ -1,1 +1,2 @@
 New Line to the file
+new line added in the cloned repository
